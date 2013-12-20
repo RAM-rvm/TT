@@ -1,0 +1,14 @@
+name = Nodejs subscribe
+description = Adds realtime notifications for subscribed content.
+package = Nodejs
+version = VERSION
+core = 7.x
+dependencies[] = nodejs
+
+
+; Information added by  packaging script on 2013-11-18
+version = "7.x-1.7"
+core = "7.x"
+project = "nodejs"
+datestamp = "1384798708"
+
